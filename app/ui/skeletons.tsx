@@ -15,6 +15,7 @@ export function CardSkeleton() {
         <div className="h-7 w-20 rounded-md bg-gray-200" />
       </div>
     </div>
+    
   );
 }
 
